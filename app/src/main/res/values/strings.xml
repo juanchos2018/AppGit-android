@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AppGithup</string>
     <string name="boton1"> click aqui</string>
+    <string name="txt1"> escribe aqui</string>
 </resources>
